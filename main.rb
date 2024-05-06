@@ -14,7 +14,7 @@ end
 
 file_data = File.read('task3', binmode: true)
 
-PASSWORD = 'aiJCdXt73Xbh2FMb'.freeze
+PASSWORD = 'xgA2gIOMMJ3W6096'.freeze
 PASSWORD_SIZE = 9.freeze
 
 SALT = file_data[0, 4].freeze
